@@ -1,0 +1,20 @@
+{
+  "name": "sri-app1",
+  "version": "1.0.2",
+  "description": "going to do read file and writiong file and delete it",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chai": "^3.5.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "srikanth",
+  "license": "ISC"
+}
